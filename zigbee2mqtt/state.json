@@ -1,0 +1,15 @@
+{
+    "0x000d6ffffe3bb045": {
+        "color_mode": "xy",
+        "update": {
+            "state": "available"
+        },
+        "update_available": true,
+        "state": "OFF",
+        "color": {
+            "x": 0.323,
+            "y": 0.329
+        },
+        "brightness": 251
+    }
+}

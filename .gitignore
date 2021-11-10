@@ -8,6 +8,8 @@
 !zigbee2mqtt/
 !blueprints/
 
+#
+
 # Ignore these files/folders
 secrets.yaml
 .storage
